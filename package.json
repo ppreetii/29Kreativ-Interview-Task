@@ -1,0 +1,23 @@
+{
+  "name": "29kreativ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Preeti Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
